@@ -1,4 +1,22 @@
-## Hi there 👋
+# < MuriloReis-dev GitHub Page >
+## 👋 Olá! Eu sou Murilo Reis Schiavotto
+Tenho 17 anos, estou no 3º ano do ensino médio com técnico em **Análise e Desenvolvimento de Sistemas** na Etec Fernando Prestes - Extensão Fatec, em Sorocaba SP.
+
+---
+### ✔ Tenho experiência com:
+- 🌐 Aplicações Web
+- 📲 Mobile
+- 🖥 Desktop
+- 🔑 Banco de Dados
+- ⚡ Arduino
+
+Além de experiencia inicial com a engine Unity
+
+---
+### 📌 Principal Habilidade e Área de Interesse:
+Desenvolvimento Backend
+
+
 
 <!--
 **MuriloReis-dev/MuriloReis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
