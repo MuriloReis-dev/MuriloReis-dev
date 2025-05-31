@@ -3,7 +3,7 @@
 Tenho 17 anos, estou no 3º ano do ensino médio com técnico em **Análise e Desenvolvimento de Sistemas** na Etec Fernando Prestes - Extensão Fatec, em Sorocaba SP.
 
 ---
-### ✔ Tenho experiência com:
+### ✔ Tenho experiência com desenvolvimento em:
 - 🌐 Aplicações Web
 - 📲 Mobile
 - 🖥 Desktop
@@ -15,6 +15,29 @@ Além de experiencia inicial com a engine Unity
 ---
 ### 📌 Principal Habilidade e Área de Interesse:
 Desenvolvimento Backend
+
+---
+<table align="center">
+  <tr>
+    <th colspan=2><h1><strong>Dados do Perfil GitHub</strong></h1></th>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Linguagens"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloReis-dev&layout=compact&custom_title=Linguagens&theme=radical"
+      />
+    </td>
+    <td>
+      <img
+        alt="Estatísticas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=MuriloReis-dev&show_icons=true&custom_title=Estatísticas&theme=radical"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
