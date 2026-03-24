@@ -3,14 +3,13 @@
 Tenho 18 anos, estou no 3º ano do ensino médio com técnico em **Análise e Desenvolvimento de Sistemas** na Etec Fernando Prestes - Extensão Fatec, em Sorocaba SP.
 
 ---
-### ✔ Tenho experiência com desenvolvimento em:
+### ✔ Tenho experiência em:
 - 🌐 Aplicações Web
 - 📲 Mobile
 - 🖥 Desktop
 - 🔑 Banco de Dados
 - ⚡ Arduino
-
-Além de experiencia inicial com a engine Unity
+- 🕹️ Game Development
 
 ---
 ### 📌 Principal Habilidade e Área de Interesse:
