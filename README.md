@@ -1,6 +1,6 @@
 # < MuriloReis-dev GitHub Page >
 ## 👋 Olá! Eu sou Murilo Reis Schiavotto
-Tenho 18 anos, estou no 3º ano do ensino médio com técnico em **Análise e Desenvolvimento de Sistemas** na Etec Fernando Prestes - Extensão Fatec, em Sorocaba SP.
+Tenho 18 anos, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de Sorocaba - SP.
 
 ---
 ### ✔ Tenho experiência em:
